@@ -1,4 +1,4 @@
-# <GraphQLRegistry> &middot;  <a href="https://github.com/heineiuo/react-graphql-registry/actions"><img style="max-width:100%" alt="GitHub Actions status" src="https://github.com/heineiuo/react-graphql-registry/workflows/CI/badge.svg"></a>  <a href="https://www.npmjs.com/package/react-graphql-registry"><img style="max-width:100%" alt="npm version" src="https://img.shields.io/npm/v/react-graphql-registry.svg?style=flat"></a>  
+# `<GraphQLRegistry>` &middot;  <a href="https://github.com/heineiuo/react-graphql-registry/actions"><img style="max-width:100%" alt="GitHub Actions status" src="https://github.com/heineiuo/react-graphql-registry/workflows/CI/badge.svg"></a>  <a href="https://www.npmjs.com/package/react-graphql-registry"><img style="max-width:100%" alt="npm version" src="https://img.shields.io/npm/v/react-graphql-registry.svg?style=flat"></a>  
 
 
 ## Usage
