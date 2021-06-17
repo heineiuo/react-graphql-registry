@@ -1,12 +1,12 @@
 {
   "name": "react-graphql-registry",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Schema and code both first.",
-  "main": "index.js",
+  "main": "main.js",
   "browser": "browser.js",
   "types": "build/index.d.ts",
   "files": [
-    "index.js",
+    "main.js",
     "browser.js",
     "build"
   ],
